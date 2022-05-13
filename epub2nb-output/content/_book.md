@@ -1,0 +1,143 @@
+---
+outputs: meta
+slug: book
+contentType: prose
+languageCode: en
+meta:
+  title: Learovy třesky plesky česky
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Edward Lear
+  publisher: Městská knihovna v Praze
+  modified: '2021-06-03T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - learovy_tresky_plesky_cesky_001.html
+  - learovy_tresky_plesky_cesky_002.html
+  - learovy_tresky_plesky_cesky_003.html
+  - learovy_tresky_plesky_cesky_004.html
+  - learovy_tresky_plesky_cesky_005.html
+  - learovy_tresky_plesky_cesky_006.html
+  - learovy_tresky_plesky_cesky_007.html
+  - learovy_tresky_plesky_cesky_008.html
+  - learovy_tresky_plesky_cesky_009.html
+  - learovy_tresky_plesky_cesky_010.html
+  - learovy_tresky_plesky_cesky_011.html
+  - learovy_tresky_plesky_cesky_012.html
+  - learovy_tresky_plesky_cesky_013.html
+  - learovy_tresky_plesky_cesky_014.html
+  - learovy_tresky_plesky_cesky_015.html
+  - learovy_tresky_plesky_cesky_016.html
+  - learovy_tresky_plesky_cesky_017.html
+  - learovy_tresky_plesky_cesky_018.html
+  - learovy_tresky_plesky_cesky_019.html
+  - learovy_tresky_plesky_cesky_020.html
+  - learovy_tresky_plesky_cesky_021.html
+  - learovy_tresky_plesky_cesky_022.html
+  - learovy_tresky_plesky_cesky_023.html
+  - learovy_tresky_plesky_cesky_024.html
+  - learovy_tresky_plesky_cesky_025.html
+  - learovy_tresky_plesky_cesky_026.html
+  - learovy_tresky_plesky_cesky_027.html
+  - learovy_tresky_plesky_cesky_028.html
+  - learovy_tresky_plesky_cesky_029.html
+  - learovy_tresky_plesky_cesky_030.html
+  - learovy_tresky_plesky_cesky_031.html
+  - learovy_tresky_plesky_cesky_032.html
+  - learovy_tresky_plesky_cesky_033.html
+  - learovy_tresky_plesky_cesky_034.html
+  - learovy_tresky_plesky_cesky_035.html
+  - learovy_tresky_plesky_cesky_036.html
+  - learovy_tresky_plesky_cesky_037.html
+  - learovy_tresky_plesky_cesky_038.html
+  - learovy_tresky_plesky_cesky_039.html
+  - learovy_tresky_plesky_cesky_040.html
+  - learovy_tresky_plesky_cesky_041.html
+  - learovy_tresky_plesky_cesky_042.html
+  - learovy_tresky_plesky_cesky_043.html
+  - learovy_tresky_plesky_cesky_044.html
+  - learovy_tresky_plesky_cesky_045.html
+  - learovy_tresky_plesky_cesky_046.html
+  - learovy_tresky_plesky_cesky_047.html
+  - learovy_tresky_plesky_cesky_048.html
+  - learovy_tresky_plesky_cesky_049.html
+  - learovy_tresky_plesky_cesky_050.html
+  - learovy_tresky_plesky_cesky_051.html
+  - learovy_tresky_plesky_cesky_052.html
+  - learovy_tresky_plesky_cesky_053.html
+  - learovy_tresky_plesky_cesky_054.html
+  - learovy_tresky_plesky_cesky_055.html
+  - learovy_tresky_plesky_cesky_056.html
+  - learovy_tresky_plesky_cesky_057.html
+  - learovy_tresky_plesky_cesky_058.html
+  - learovy_tresky_plesky_cesky_059.html
+  - learovy_tresky_plesky_cesky_060.html
+  - learovy_tresky_plesky_cesky_061.html
+  - learovy_tresky_plesky_cesky_062.html
+  - learovy_tresky_plesky_cesky_063.html
+  - learovy_tresky_plesky_cesky_064.html
+  - learovy_tresky_plesky_cesky_065.html
+  - learovy_tresky_plesky_cesky_066.html
+  - learovy_tresky_plesky_cesky_067.html
+  - learovy_tresky_plesky_cesky_068.html
+  - learovy_tresky_plesky_cesky_069.html
+  - learovy_tresky_plesky_cesky_070.html
+  - learovy_tresky_plesky_cesky_071.html
+  - learovy_tresky_plesky_cesky_072.html
+  - learovy_tresky_plesky_cesky_073.html
+  - learovy_tresky_plesky_cesky_074.html
+  - learovy_tresky_plesky_cesky_075.html
+  - learovy_tresky_plesky_cesky_076.html
+  - learovy_tresky_plesky_cesky_077.html
+  - learovy_tresky_plesky_cesky_078.html
+  - learovy_tresky_plesky_cesky_079.html
+  - learovy_tresky_plesky_cesky_080.html
+  - learovy_tresky_plesky_cesky_081.html
+  - learovy_tresky_plesky_cesky_082.html
+  - learovy_tresky_plesky_cesky_083.html
+  - learovy_tresky_plesky_cesky_084.html
+  - learovy_tresky_plesky_cesky_085.html
+  - learovy_tresky_plesky_cesky_086.html
+  - learovy_tresky_plesky_cesky_087.html
+  - learovy_tresky_plesky_cesky_088.html
+  - learovy_tresky_plesky_cesky_089.html
+  - learovy_tresky_plesky_cesky_090.html
+  - learovy_tresky_plesky_cesky_091.html
+  - learovy_tresky_plesky_cesky_092.html
+  - learovy_tresky_plesky_cesky_093.html
+  - learovy_tresky_plesky_cesky_094.html
+  - learovy_tresky_plesky_cesky_095.html
+  - learovy_tresky_plesky_cesky_096.html
+  - learovy_tresky_plesky_cesky_097.html
+  - learovy_tresky_plesky_cesky_098.html
+  - learovy_tresky_plesky_cesky_099.html
+  - learovy_tresky_plesky_cesky_100.html
+  - learovy_tresky_plesky_cesky_101.html
+  - learovy_tresky_plesky_cesky_102.html
+  - learovy_tresky_plesky_cesky_103.html
+  - learovy_tresky_plesky_cesky_104.html
+  - learovy_tresky_plesky_cesky_105.html
+  - learovy_tresky_plesky_cesky_106.html
+  - learovy_tresky_plesky_cesky_107.html
+  - learovy_tresky_plesky_cesky_108.html
+  - learovy_tresky_plesky_cesky_109.html
+  - learovy_tresky_plesky_cesky_110.html
+  - learovy_tresky_plesky_cesky_111.html
+  - learovy_tresky_plesky_cesky_112.html
+  - learovy_tresky_plesky_cesky_113.html
+  - learovy_tresky_plesky_cesky_114.html
+  - learovy_tresky_plesky_cesky_115.html
+  - learovy_tresky_plesky_cesky_116.html
+  - learovy_tresky_plesky_cesky_117.html
+tocBase:
+  - id: section-1
+    children: []
+    isSection: true
+static:
+  - style
+  - scripts
+  - title
+  - fonts
+  - resources
+  - template-images
+  - favicon.png
+---
