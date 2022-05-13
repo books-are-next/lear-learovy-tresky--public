@@ -1,0 +1,12 @@
+---
+title: ''
+contentType: prose
+---
+
+![](../Images/074.jpg)
+
+> A jeden chlápek rodem z Cách,  
+> ten zase chodil po patách.  
+>          Když se ho ptali proč,  
+>          neřekl ani kvoč  
+> a dál si kráčel po patách.
