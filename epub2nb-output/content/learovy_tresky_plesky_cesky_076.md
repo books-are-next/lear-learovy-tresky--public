@@ -5,8 +5,8 @@ contentType: prose
 
 ![](../Images/077.jpg)
 
-> A jeden chlápek z Protivína  
-> byl opravdu kus podivína;  
->          zalézal do komůrky  
->          a žvýkal suché kůrky  
-> a pavouky, ty z Protivína.
+_A jeden chlápek z Protivína  
+byl opravdu kus podivína;  
+         zalézal do komůrky  
+         a žvýkal suché kůrky  
+a pavouky, ty z Protivína._

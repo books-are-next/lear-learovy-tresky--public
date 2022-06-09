@@ -5,8 +5,8 @@ contentType: prose
 
 ![](../Images/041.jpg)
 
-> A jeden chlápek v Kytlici,  
-> ten si vzal život vidlicí,  
->          ale ač umřel brzy,  
->          neprolil nad ním slzy  
-> jediný přítel v Kytlici.
+_A jeden chlápek v Kytlici,  
+ten si vzal život vidlicí,  
+         ale ač umřel brzy,  
+         neprolil nad ním slzy  
+jediný přítel v Kytlici._
