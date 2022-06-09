@@ -5,10 +5,10 @@ contentType: prose
 
 ![](../Images/008.jpg)
 
-A jeden chlápek z města Prahy  
+_A jeden chlápek z města Prahy  
 s vynaložením značné snahy  
          ty jeho třesky plesky  
          zas přepsal hezky česky,  
-i když byl vyhnán z města Prahy.
+i když byl vyhnán z města Prahy._
 
-(Poznámka a obrázek překladatele)
+_(Poznámka a obrázek překladatele)_
