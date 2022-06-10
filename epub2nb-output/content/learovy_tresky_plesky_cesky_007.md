@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ![](../Images/008.jpg)
 
 _A jeden chlápek z města Prahy  
@@ -11,4 +13,10 @@ s vynaložením značné snahy
          zas přepsal hezky česky,  
 i když byl vyhnán z města Prahy._
 
+</section>
+
+<section>
+
 _(Poznámka a obrázek překladatele)_
+
+</section>

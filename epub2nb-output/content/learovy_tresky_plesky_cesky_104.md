@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ![](../Images/105.jpg)
 
 _A jeden chlápek ze Zábřehu  
@@ -10,3 +12,5 @@ _A jeden chlápek ze Zábřehu
          a vtom je potkal rak  
          a poděsil je tak,  
 že pádili zpět do Zábřehu._
+
+</section>
