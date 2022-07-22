@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/045.jpg)
 
-_Byl jeden chlápek z Horní Lhoty  
+Byl jeden chlápek z Horní Lhoty  
 a vrzaly mu hrozně boty.  
          Ptali se ho: „Hej, pane,  
          z čeho jsou udělané,  
-že vám tak vržou cestou z Lhoty?“_
+že vám tak vržou cestou z Lhoty?“
 
 </section>

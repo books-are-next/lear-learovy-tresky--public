@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/108.jpg)
 
-_A jeden chlápek z Bochumu,  
+A jeden chlápek z Bochumu,  
 ten neměl špetku rozumu:  
          brával si do své bryčky  
          čuníka a tři sýčky  
-k zlosti všech lidí v Bochumu._
+k zlosti všech lidí v Bochumu.
 
 </section>

@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/053.jpg)
 
-_A jeden chlápek z Kostariky  
+A jeden chlápek z Kostariky  
 si potrpěl zas na králíky;  
          když jich sněd dvacet pět,  
          najednou hrozně zbled  
-a přestal trpět na králíky._
+a přestal trpět na králíky.
 
 </section>

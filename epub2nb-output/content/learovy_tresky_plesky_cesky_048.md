@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/049.jpg)
 
-_A jeden chlápek v Osoppu  
+A jeden chlápek v Osoppu  
 měl židličku až do stropu,  
          a jak si na ni sedl,  
          tak z ní už nesesedl  
-až do své smrti v Osoppu._
+až do své smrti v Osoppu.
 
 </section>

@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/094.jpg)
 
-_A jeden chlápek ze Šanghaje  
+A jeden chlápek ze Šanghaje  
 vštěpoval sůvám pití čaje.  
          „Jíst myši, málo platné,  
          je nechutné a špatné!“  
-hlásal ten chlápek ze Šanghaje._
+hlásal ten chlápek ze Šanghaje.
 
 </section>

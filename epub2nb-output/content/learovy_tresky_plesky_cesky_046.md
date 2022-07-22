@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/047.jpg)
 
-_A jeden chlápek z města Kremže  
+A jeden chlápek z města Kremže  
 spad náhodou do řeky Temže,  
          což byla věru škoda:  
          anžto ho vzala voda,  
-nemoh se vrátit do své Kremže._
+nemoh se vrátit do své Kremže.
 
 </section>

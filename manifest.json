@@ -8,10 +8,11 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "lear-learovy-tresky-plesky-cesky-df75e1a",
-  "revision": "df75e1a",
+  "identifier": "lear-learovy-tresky-plesky-cesky-1fb9439",
+  "revision": "1fb9439",
   "readingOrder": [
     "promo.html",
+    "learovy_tresky_plesky_cesky_005.html",
     "learovy_tresky_plesky_cesky_006.html",
     "learovy_tresky_plesky_cesky_007.html",
     "learovy_tresky_plesky_cesky_008.html",
@@ -126,8 +127,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Jul 22 2022 08:15:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658477733711
+    "date": "Fri Jul 22 2022 08:23:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658478220247
   },
   "documents": [
     {
@@ -139,8 +140,28 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "learovy_tresky_plesky_cesky_006.html",
+      "next": "learovy_tresky_plesky_cesky_005.html",
       "toc": []
+    },
+    {
+      "title": "Learovy třesky plesky česky",
+      "file": "learovy_tresky_plesky_cesky_005.html",
+      "words": 20,
+      "chars": 104,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "learovy_tresky_plesky_cesky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Learovy třesky plesky česky",
+          "id": null,
+          "children": []
+        }
+      ]
     },
     {
       "title": "Learovy třesky plesky česky",
@@ -149,8 +170,8 @@
       "chars": 131,
       "ideas": 6,
       "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
+      "order": 2,
+      "prev": "learovy_tresky_plesky_cesky_005.html",
       "next": "learovy_tresky_plesky_cesky_007.html",
       "toc": [
         {
@@ -169,7 +190,7 @@
       "chars": 165,
       "ideas": 7,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "learovy_tresky_plesky_cesky_006.html",
       "next": "learovy_tresky_plesky_cesky_008.html",
       "toc": [
@@ -189,7 +210,7 @@
       "chars": 133,
       "ideas": 6,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "learovy_tresky_plesky_cesky_007.html",
       "next": "learovy_tresky_plesky_cesky_009.html",
       "toc": [
@@ -209,7 +230,7 @@
       "chars": 115,
       "ideas": 6,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "learovy_tresky_plesky_cesky_008.html",
       "next": "learovy_tresky_plesky_cesky_010.html",
       "toc": [
@@ -229,7 +250,7 @@
       "chars": 124,
       "ideas": 6,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "learovy_tresky_plesky_cesky_009.html",
       "next": "learovy_tresky_plesky_cesky_011.html",
       "toc": [
@@ -249,7 +270,7 @@
       "chars": 124,
       "ideas": 6,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "learovy_tresky_plesky_cesky_010.html",
       "next": "learovy_tresky_plesky_cesky_012.html",
       "toc": [
@@ -269,7 +290,7 @@
       "chars": 118,
       "ideas": 6,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "learovy_tresky_plesky_cesky_011.html",
       "next": "learovy_tresky_plesky_cesky_013.html",
       "toc": [
@@ -289,7 +310,7 @@
       "chars": 124,
       "ideas": 6,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "learovy_tresky_plesky_cesky_012.html",
       "next": "learovy_tresky_plesky_cesky_014.html",
       "toc": [
@@ -309,7 +330,7 @@
       "chars": 115,
       "ideas": 6,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "learovy_tresky_plesky_cesky_013.html",
       "next": "learovy_tresky_plesky_cesky_015.html",
       "toc": [
@@ -329,7 +350,7 @@
       "chars": 135,
       "ideas": 6,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "learovy_tresky_plesky_cesky_014.html",
       "next": "learovy_tresky_plesky_cesky_016.html",
       "toc": [
@@ -349,7 +370,7 @@
       "chars": 130,
       "ideas": 6,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "learovy_tresky_plesky_cesky_015.html",
       "next": "learovy_tresky_plesky_cesky_017.html",
       "toc": [
@@ -369,7 +390,7 @@
       "chars": 129,
       "ideas": 6,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "learovy_tresky_plesky_cesky_016.html",
       "next": "learovy_tresky_plesky_cesky_018.html",
       "toc": [
@@ -389,7 +410,7 @@
       "chars": 125,
       "ideas": 6,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "learovy_tresky_plesky_cesky_017.html",
       "next": "learovy_tresky_plesky_cesky_019.html",
       "toc": [
@@ -409,7 +430,7 @@
       "chars": 117,
       "ideas": 6,
       "role": "chapter",
-      "order": 14,
+      "order": 15,
       "prev": "learovy_tresky_plesky_cesky_018.html",
       "next": "learovy_tresky_plesky_cesky_020.html",
       "toc": [
@@ -429,7 +450,7 @@
       "chars": 123,
       "ideas": 6,
       "role": "chapter",
-      "order": 15,
+      "order": 16,
       "prev": "learovy_tresky_plesky_cesky_019.html",
       "next": "learovy_tresky_plesky_cesky_021.html",
       "toc": [
@@ -449,7 +470,7 @@
       "chars": 127,
       "ideas": 6,
       "role": "chapter",
-      "order": 16,
+      "order": 17,
       "prev": "learovy_tresky_plesky_cesky_020.html",
       "next": "learovy_tresky_plesky_cesky_022.html",
       "toc": [
@@ -469,7 +490,7 @@
       "chars": 131,
       "ideas": 6,
       "role": "chapter",
-      "order": 17,
+      "order": 18,
       "prev": "learovy_tresky_plesky_cesky_021.html",
       "next": "learovy_tresky_plesky_cesky_023.html",
       "toc": [
@@ -489,7 +510,7 @@
       "chars": 119,
       "ideas": 6,
       "role": "chapter",
-      "order": 18,
+      "order": 19,
       "prev": "learovy_tresky_plesky_cesky_022.html",
       "next": "learovy_tresky_plesky_cesky_024.html",
       "toc": [
@@ -509,7 +530,7 @@
       "chars": 111,
       "ideas": 6,
       "role": "chapter",
-      "order": 19,
+      "order": 20,
       "prev": "learovy_tresky_plesky_cesky_023.html",
       "next": "learovy_tresky_plesky_cesky_025.html",
       "toc": [
@@ -529,7 +550,7 @@
       "chars": 118,
       "ideas": 6,
       "role": "chapter",
-      "order": 20,
+      "order": 21,
       "prev": "learovy_tresky_plesky_cesky_024.html",
       "next": "learovy_tresky_plesky_cesky_026.html",
       "toc": [
@@ -549,7 +570,7 @@
       "chars": 111,
       "ideas": 6,
       "role": "chapter",
-      "order": 21,
+      "order": 22,
       "prev": "learovy_tresky_plesky_cesky_025.html",
       "next": "learovy_tresky_plesky_cesky_027.html",
       "toc": [
@@ -569,7 +590,7 @@
       "chars": 118,
       "ideas": 6,
       "role": "chapter",
-      "order": 22,
+      "order": 23,
       "prev": "learovy_tresky_plesky_cesky_026.html",
       "next": "learovy_tresky_plesky_cesky_028.html",
       "toc": [
@@ -589,7 +610,7 @@
       "chars": 113,
       "ideas": 6,
       "role": "chapter",
-      "order": 23,
+      "order": 24,
       "prev": "learovy_tresky_plesky_cesky_027.html",
       "next": "learovy_tresky_plesky_cesky_029.html",
       "toc": [
@@ -609,7 +630,7 @@
       "chars": 115,
       "ideas": 6,
       "role": "chapter",
-      "order": 24,
+      "order": 25,
       "prev": "learovy_tresky_plesky_cesky_028.html",
       "next": "learovy_tresky_plesky_cesky_030.html",
       "toc": [
@@ -629,7 +650,7 @@
       "chars": 130,
       "ideas": 6,
       "role": "chapter",
-      "order": 25,
+      "order": 26,
       "prev": "learovy_tresky_plesky_cesky_029.html",
       "next": "learovy_tresky_plesky_cesky_031.html",
       "toc": [
@@ -649,7 +670,7 @@
       "chars": 125,
       "ideas": 6,
       "role": "chapter",
-      "order": 26,
+      "order": 27,
       "prev": "learovy_tresky_plesky_cesky_030.html",
       "next": "learovy_tresky_plesky_cesky_032.html",
       "toc": [
@@ -669,7 +690,7 @@
       "chars": 135,
       "ideas": 6,
       "role": "chapter",
-      "order": 27,
+      "order": 28,
       "prev": "learovy_tresky_plesky_cesky_031.html",
       "next": "learovy_tresky_plesky_cesky_033.html",
       "toc": [
@@ -689,7 +710,7 @@
       "chars": 120,
       "ideas": 6,
       "role": "chapter",
-      "order": 28,
+      "order": 29,
       "prev": "learovy_tresky_plesky_cesky_032.html",
       "next": "learovy_tresky_plesky_cesky_034.html",
       "toc": [
@@ -709,7 +730,7 @@
       "chars": 113,
       "ideas": 6,
       "role": "chapter",
-      "order": 29,
+      "order": 30,
       "prev": "learovy_tresky_plesky_cesky_033.html",
       "next": "learovy_tresky_plesky_cesky_035.html",
       "toc": [
@@ -729,7 +750,7 @@
       "chars": 126,
       "ideas": 6,
       "role": "chapter",
-      "order": 30,
+      "order": 31,
       "prev": "learovy_tresky_plesky_cesky_034.html",
       "next": "learovy_tresky_plesky_cesky_036.html",
       "toc": [
@@ -749,7 +770,7 @@
       "chars": 131,
       "ideas": 6,
       "role": "chapter",
-      "order": 31,
+      "order": 32,
       "prev": "learovy_tresky_plesky_cesky_035.html",
       "next": "learovy_tresky_plesky_cesky_037.html",
       "toc": [
@@ -769,7 +790,7 @@
       "chars": 107,
       "ideas": 6,
       "role": "chapter",
-      "order": 32,
+      "order": 33,
       "prev": "learovy_tresky_plesky_cesky_036.html",
       "next": "learovy_tresky_plesky_cesky_038.html",
       "toc": [
@@ -789,7 +810,7 @@
       "chars": 123,
       "ideas": 6,
       "role": "chapter",
-      "order": 33,
+      "order": 34,
       "prev": "learovy_tresky_plesky_cesky_037.html",
       "next": "learovy_tresky_plesky_cesky_039.html",
       "toc": [
@@ -809,7 +830,7 @@
       "chars": 126,
       "ideas": 6,
       "role": "chapter",
-      "order": 34,
+      "order": 35,
       "prev": "learovy_tresky_plesky_cesky_038.html",
       "next": "learovy_tresky_plesky_cesky_040.html",
       "toc": [
@@ -829,7 +850,7 @@
       "chars": 115,
       "ideas": 6,
       "role": "chapter",
-      "order": 35,
+      "order": 36,
       "prev": "learovy_tresky_plesky_cesky_039.html",
       "next": "learovy_tresky_plesky_cesky_041.html",
       "toc": [
@@ -849,7 +870,7 @@
       "chars": 128,
       "ideas": 6,
       "role": "chapter",
-      "order": 36,
+      "order": 37,
       "prev": "learovy_tresky_plesky_cesky_040.html",
       "next": "learovy_tresky_plesky_cesky_042.html",
       "toc": [
@@ -869,7 +890,7 @@
       "chars": 138,
       "ideas": 6,
       "role": "chapter",
-      "order": 37,
+      "order": 38,
       "prev": "learovy_tresky_plesky_cesky_041.html",
       "next": "learovy_tresky_plesky_cesky_043.html",
       "toc": [
@@ -889,7 +910,7 @@
       "chars": 114,
       "ideas": 6,
       "role": "chapter",
-      "order": 38,
+      "order": 39,
       "prev": "learovy_tresky_plesky_cesky_042.html",
       "next": "learovy_tresky_plesky_cesky_044.html",
       "toc": [
@@ -909,7 +930,7 @@
       "chars": 132,
       "ideas": 6,
       "role": "chapter",
-      "order": 39,
+      "order": 40,
       "prev": "learovy_tresky_plesky_cesky_043.html",
       "next": "learovy_tresky_plesky_cesky_045.html",
       "toc": [
@@ -929,7 +950,7 @@
       "chars": 120,
       "ideas": 6,
       "role": "chapter",
-      "order": 40,
+      "order": 41,
       "prev": "learovy_tresky_plesky_cesky_044.html",
       "next": "learovy_tresky_plesky_cesky_046.html",
       "toc": [
@@ -949,7 +970,7 @@
       "chars": 127,
       "ideas": 6,
       "role": "chapter",
-      "order": 41,
+      "order": 42,
       "prev": "learovy_tresky_plesky_cesky_045.html",
       "next": "learovy_tresky_plesky_cesky_047.html",
       "toc": [
@@ -969,7 +990,7 @@
       "chars": 120,
       "ideas": 6,
       "role": "chapter",
-      "order": 42,
+      "order": 43,
       "prev": "learovy_tresky_plesky_cesky_046.html",
       "next": "learovy_tresky_plesky_cesky_048.html",
       "toc": [
@@ -989,7 +1010,7 @@
       "chars": 115,
       "ideas": 6,
       "role": "chapter",
-      "order": 43,
+      "order": 44,
       "prev": "learovy_tresky_plesky_cesky_047.html",
       "next": "learovy_tresky_plesky_cesky_049.html",
       "toc": [
@@ -1009,7 +1030,7 @@
       "chars": 121,
       "ideas": 6,
       "role": "chapter",
-      "order": 44,
+      "order": 45,
       "prev": "learovy_tresky_plesky_cesky_048.html",
       "next": "learovy_tresky_plesky_cesky_050.html",
       "toc": [
@@ -1029,7 +1050,7 @@
       "chars": 133,
       "ideas": 6,
       "role": "chapter",
-      "order": 45,
+      "order": 46,
       "prev": "learovy_tresky_plesky_cesky_049.html",
       "next": "learovy_tresky_plesky_cesky_051.html",
       "toc": [
@@ -1049,7 +1070,7 @@
       "chars": 131,
       "ideas": 6,
       "role": "chapter",
-      "order": 46,
+      "order": 47,
       "prev": "learovy_tresky_plesky_cesky_050.html",
       "next": "learovy_tresky_plesky_cesky_052.html",
       "toc": [
@@ -1069,7 +1090,7 @@
       "chars": 127,
       "ideas": 6,
       "role": "chapter",
-      "order": 47,
+      "order": 48,
       "prev": "learovy_tresky_plesky_cesky_051.html",
       "next": "learovy_tresky_plesky_cesky_053.html",
       "toc": [
@@ -1089,7 +1110,7 @@
       "chars": 128,
       "ideas": 6,
       "role": "chapter",
-      "order": 48,
+      "order": 49,
       "prev": "learovy_tresky_plesky_cesky_052.html",
       "next": "learovy_tresky_plesky_cesky_054.html",
       "toc": [
@@ -1109,7 +1130,7 @@
       "chars": 115,
       "ideas": 6,
       "role": "chapter",
-      "order": 49,
+      "order": 50,
       "prev": "learovy_tresky_plesky_cesky_053.html",
       "next": "learovy_tresky_plesky_cesky_055.html",
       "toc": [
@@ -1129,7 +1150,7 @@
       "chars": 130,
       "ideas": 6,
       "role": "chapter",
-      "order": 50,
+      "order": 51,
       "prev": "learovy_tresky_plesky_cesky_054.html",
       "next": "learovy_tresky_plesky_cesky_056.html",
       "toc": [
@@ -1149,7 +1170,7 @@
       "chars": 133,
       "ideas": 6,
       "role": "chapter",
-      "order": 51,
+      "order": 52,
       "prev": "learovy_tresky_plesky_cesky_055.html",
       "next": "learovy_tresky_plesky_cesky_057.html",
       "toc": [
@@ -1169,7 +1190,7 @@
       "chars": 118,
       "ideas": 6,
       "role": "chapter",
-      "order": 52,
+      "order": 53,
       "prev": "learovy_tresky_plesky_cesky_056.html",
       "next": "learovy_tresky_plesky_cesky_058.html",
       "toc": [
@@ -1189,7 +1210,7 @@
       "chars": 117,
       "ideas": 6,
       "role": "chapter",
-      "order": 53,
+      "order": 54,
       "prev": "learovy_tresky_plesky_cesky_057.html",
       "next": "learovy_tresky_plesky_cesky_059.html",
       "toc": [
@@ -1209,7 +1230,7 @@
       "chars": 113,
       "ideas": 6,
       "role": "chapter",
-      "order": 54,
+      "order": 55,
       "prev": "learovy_tresky_plesky_cesky_058.html",
       "next": "learovy_tresky_plesky_cesky_060.html",
       "toc": [
@@ -1229,7 +1250,7 @@
       "chars": 133,
       "ideas": 6,
       "role": "chapter",
-      "order": 55,
+      "order": 56,
       "prev": "learovy_tresky_plesky_cesky_059.html",
       "next": "learovy_tresky_plesky_cesky_061.html",
       "toc": [
@@ -1249,7 +1270,7 @@
       "chars": 131,
       "ideas": 6,
       "role": "chapter",
-      "order": 56,
+      "order": 57,
       "prev": "learovy_tresky_plesky_cesky_060.html",
       "next": "learovy_tresky_plesky_cesky_062.html",
       "toc": [
@@ -1269,7 +1290,7 @@
       "chars": 129,
       "ideas": 6,
       "role": "chapter",
-      "order": 57,
+      "order": 58,
       "prev": "learovy_tresky_plesky_cesky_061.html",
       "next": "learovy_tresky_plesky_cesky_063.html",
       "toc": [
@@ -1289,7 +1310,7 @@
       "chars": 125,
       "ideas": 6,
       "role": "chapter",
-      "order": 58,
+      "order": 59,
       "prev": "learovy_tresky_plesky_cesky_062.html",
       "next": "learovy_tresky_plesky_cesky_064.html",
       "toc": [
@@ -1309,7 +1330,7 @@
       "chars": 114,
       "ideas": 6,
       "role": "chapter",
-      "order": 59,
+      "order": 60,
       "prev": "learovy_tresky_plesky_cesky_063.html",
       "next": "learovy_tresky_plesky_cesky_065.html",
       "toc": [
@@ -1329,7 +1350,7 @@
       "chars": 116,
       "ideas": 6,
       "role": "chapter",
-      "order": 60,
+      "order": 61,
       "prev": "learovy_tresky_plesky_cesky_064.html",
       "next": "learovy_tresky_plesky_cesky_066.html",
       "toc": [
@@ -1349,7 +1370,7 @@
       "chars": 111,
       "ideas": 6,
       "role": "chapter",
-      "order": 61,
+      "order": 62,
       "prev": "learovy_tresky_plesky_cesky_065.html",
       "next": "learovy_tresky_plesky_cesky_067.html",
       "toc": [
@@ -1369,7 +1390,7 @@
       "chars": 124,
       "ideas": 6,
       "role": "chapter",
-      "order": 62,
+      "order": 63,
       "prev": "learovy_tresky_plesky_cesky_066.html",
       "next": "learovy_tresky_plesky_cesky_068.html",
       "toc": [
@@ -1389,7 +1410,7 @@
       "chars": 105,
       "ideas": 6,
       "role": "chapter",
-      "order": 63,
+      "order": 64,
       "prev": "learovy_tresky_plesky_cesky_067.html",
       "next": "learovy_tresky_plesky_cesky_069.html",
       "toc": [
@@ -1409,7 +1430,7 @@
       "chars": 113,
       "ideas": 6,
       "role": "chapter",
-      "order": 64,
+      "order": 65,
       "prev": "learovy_tresky_plesky_cesky_068.html",
       "next": "learovy_tresky_plesky_cesky_070.html",
       "toc": [
@@ -1429,7 +1450,7 @@
       "chars": 120,
       "ideas": 6,
       "role": "chapter",
-      "order": 65,
+      "order": 66,
       "prev": "learovy_tresky_plesky_cesky_069.html",
       "next": "learovy_tresky_plesky_cesky_071.html",
       "toc": [
@@ -1449,7 +1470,7 @@
       "chars": 120,
       "ideas": 6,
       "role": "chapter",
-      "order": 66,
+      "order": 67,
       "prev": "learovy_tresky_plesky_cesky_070.html",
       "next": "learovy_tresky_plesky_cesky_072.html",
       "toc": [
@@ -1469,7 +1490,7 @@
       "chars": 123,
       "ideas": 6,
       "role": "chapter",
-      "order": 67,
+      "order": 68,
       "prev": "learovy_tresky_plesky_cesky_071.html",
       "next": "learovy_tresky_plesky_cesky_073.html",
       "toc": [
@@ -1489,7 +1510,7 @@
       "chars": 118,
       "ideas": 6,
       "role": "chapter",
-      "order": 68,
+      "order": 69,
       "prev": "learovy_tresky_plesky_cesky_072.html",
       "next": "learovy_tresky_plesky_cesky_074.html",
       "toc": [
@@ -1509,7 +1530,7 @@
       "chars": 125,
       "ideas": 6,
       "role": "chapter",
-      "order": 69,
+      "order": 70,
       "prev": "learovy_tresky_plesky_cesky_073.html",
       "next": "learovy_tresky_plesky_cesky_075.html",
       "toc": [
@@ -1529,7 +1550,7 @@
       "chars": 136,
       "ideas": 6,
       "role": "chapter",
-      "order": 70,
+      "order": 71,
       "prev": "learovy_tresky_plesky_cesky_074.html",
       "next": "learovy_tresky_plesky_cesky_076.html",
       "toc": [
@@ -1549,7 +1570,7 @@
       "chars": 116,
       "ideas": 6,
       "role": "chapter",
-      "order": 71,
+      "order": 72,
       "prev": "learovy_tresky_plesky_cesky_075.html",
       "next": "learovy_tresky_plesky_cesky_077.html",
       "toc": [
@@ -1569,7 +1590,7 @@
       "chars": 111,
       "ideas": 6,
       "role": "chapter",
-      "order": 72,
+      "order": 73,
       "prev": "learovy_tresky_plesky_cesky_076.html",
       "next": "learovy_tresky_plesky_cesky_078.html",
       "toc": [
@@ -1589,7 +1610,7 @@
       "chars": 123,
       "ideas": 6,
       "role": "chapter",
-      "order": 73,
+      "order": 74,
       "prev": "learovy_tresky_plesky_cesky_077.html",
       "next": "learovy_tresky_plesky_cesky_079.html",
       "toc": [
@@ -1609,7 +1630,7 @@
       "chars": 133,
       "ideas": 6,
       "role": "chapter",
-      "order": 74,
+      "order": 75,
       "prev": "learovy_tresky_plesky_cesky_078.html",
       "next": "learovy_tresky_plesky_cesky_080.html",
       "toc": [
@@ -1629,7 +1650,7 @@
       "chars": 109,
       "ideas": 6,
       "role": "chapter",
-      "order": 75,
+      "order": 76,
       "prev": "learovy_tresky_plesky_cesky_079.html",
       "next": "learovy_tresky_plesky_cesky_081.html",
       "toc": [
@@ -1649,7 +1670,7 @@
       "chars": 115,
       "ideas": 6,
       "role": "chapter",
-      "order": 76,
+      "order": 77,
       "prev": "learovy_tresky_plesky_cesky_080.html",
       "next": "learovy_tresky_plesky_cesky_082.html",
       "toc": [
@@ -1669,7 +1690,7 @@
       "chars": 125,
       "ideas": 6,
       "role": "chapter",
-      "order": 77,
+      "order": 78,
       "prev": "learovy_tresky_plesky_cesky_081.html",
       "next": "learovy_tresky_plesky_cesky_083.html",
       "toc": [
@@ -1689,7 +1710,7 @@
       "chars": 128,
       "ideas": 6,
       "role": "chapter",
-      "order": 78,
+      "order": 79,
       "prev": "learovy_tresky_plesky_cesky_082.html",
       "next": "learovy_tresky_plesky_cesky_084.html",
       "toc": [
@@ -1709,7 +1730,7 @@
       "chars": 129,
       "ideas": 6,
       "role": "chapter",
-      "order": 79,
+      "order": 80,
       "prev": "learovy_tresky_plesky_cesky_083.html",
       "next": "learovy_tresky_plesky_cesky_085.html",
       "toc": [
@@ -1729,7 +1750,7 @@
       "chars": 120,
       "ideas": 6,
       "role": "chapter",
-      "order": 80,
+      "order": 81,
       "prev": "learovy_tresky_plesky_cesky_084.html",
       "next": "learovy_tresky_plesky_cesky_086.html",
       "toc": [
@@ -1749,7 +1770,7 @@
       "chars": 114,
       "ideas": 6,
       "role": "chapter",
-      "order": 81,
+      "order": 82,
       "prev": "learovy_tresky_plesky_cesky_085.html",
       "next": "learovy_tresky_plesky_cesky_087.html",
       "toc": [
@@ -1769,7 +1790,7 @@
       "chars": 116,
       "ideas": 6,
       "role": "chapter",
-      "order": 82,
+      "order": 83,
       "prev": "learovy_tresky_plesky_cesky_086.html",
       "next": "learovy_tresky_plesky_cesky_088.html",
       "toc": [
@@ -1789,7 +1810,7 @@
       "chars": 133,
       "ideas": 6,
       "role": "chapter",
-      "order": 83,
+      "order": 84,
       "prev": "learovy_tresky_plesky_cesky_087.html",
       "next": "learovy_tresky_plesky_cesky_089.html",
       "toc": [
@@ -1809,7 +1830,7 @@
       "chars": 132,
       "ideas": 6,
       "role": "chapter",
-      "order": 84,
+      "order": 85,
       "prev": "learovy_tresky_plesky_cesky_088.html",
       "next": "learovy_tresky_plesky_cesky_090.html",
       "toc": [
@@ -1829,7 +1850,7 @@
       "chars": 118,
       "ideas": 6,
       "role": "chapter",
-      "order": 85,
+      "order": 86,
       "prev": "learovy_tresky_plesky_cesky_089.html",
       "next": "learovy_tresky_plesky_cesky_091.html",
       "toc": [
@@ -1849,7 +1870,7 @@
       "chars": 128,
       "ideas": 6,
       "role": "chapter",
-      "order": 86,
+      "order": 87,
       "prev": "learovy_tresky_plesky_cesky_090.html",
       "next": "learovy_tresky_plesky_cesky_092.html",
       "toc": [
@@ -1869,7 +1890,7 @@
       "chars": 138,
       "ideas": 6,
       "role": "chapter",
-      "order": 87,
+      "order": 88,
       "prev": "learovy_tresky_plesky_cesky_091.html",
       "next": "learovy_tresky_plesky_cesky_093.html",
       "toc": [
@@ -1889,7 +1910,7 @@
       "chars": 130,
       "ideas": 6,
       "role": "chapter",
-      "order": 88,
+      "order": 89,
       "prev": "learovy_tresky_plesky_cesky_092.html",
       "next": "learovy_tresky_plesky_cesky_094.html",
       "toc": [
@@ -1909,7 +1930,7 @@
       "chars": 99,
       "ideas": 6,
       "role": "chapter",
-      "order": 89,
+      "order": 90,
       "prev": "learovy_tresky_plesky_cesky_093.html",
       "next": "learovy_tresky_plesky_cesky_095.html",
       "toc": [
@@ -1929,7 +1950,7 @@
       "chars": 114,
       "ideas": 6,
       "role": "chapter",
-      "order": 90,
+      "order": 91,
       "prev": "learovy_tresky_plesky_cesky_094.html",
       "next": "learovy_tresky_plesky_cesky_096.html",
       "toc": [
@@ -1949,7 +1970,7 @@
       "chars": 130,
       "ideas": 6,
       "role": "chapter",
-      "order": 91,
+      "order": 92,
       "prev": "learovy_tresky_plesky_cesky_095.html",
       "next": "learovy_tresky_plesky_cesky_097.html",
       "toc": [
@@ -1969,7 +1990,7 @@
       "chars": 117,
       "ideas": 6,
       "role": "chapter",
-      "order": 92,
+      "order": 93,
       "prev": "learovy_tresky_plesky_cesky_096.html",
       "next": "learovy_tresky_plesky_cesky_098.html",
       "toc": [
@@ -1989,7 +2010,7 @@
       "chars": 121,
       "ideas": 6,
       "role": "chapter",
-      "order": 93,
+      "order": 94,
       "prev": "learovy_tresky_plesky_cesky_097.html",
       "next": "learovy_tresky_plesky_cesky_099.html",
       "toc": [
@@ -2009,7 +2030,7 @@
       "chars": 119,
       "ideas": 6,
       "role": "chapter",
-      "order": 94,
+      "order": 95,
       "prev": "learovy_tresky_plesky_cesky_098.html",
       "next": "learovy_tresky_plesky_cesky_100.html",
       "toc": [
@@ -2029,7 +2050,7 @@
       "chars": 112,
       "ideas": 6,
       "role": "chapter",
-      "order": 95,
+      "order": 96,
       "prev": "learovy_tresky_plesky_cesky_099.html",
       "next": "learovy_tresky_plesky_cesky_101.html",
       "toc": [
@@ -2049,7 +2070,7 @@
       "chars": 123,
       "ideas": 6,
       "role": "chapter",
-      "order": 96,
+      "order": 97,
       "prev": "learovy_tresky_plesky_cesky_100.html",
       "next": "learovy_tresky_plesky_cesky_102.html",
       "toc": [
@@ -2069,7 +2090,7 @@
       "chars": 122,
       "ideas": 6,
       "role": "chapter",
-      "order": 97,
+      "order": 98,
       "prev": "learovy_tresky_plesky_cesky_101.html",
       "next": "learovy_tresky_plesky_cesky_103.html",
       "toc": [
@@ -2089,7 +2110,7 @@
       "chars": 117,
       "ideas": 6,
       "role": "chapter",
-      "order": 98,
+      "order": 99,
       "prev": "learovy_tresky_plesky_cesky_102.html",
       "next": "learovy_tresky_plesky_cesky_104.html",
       "toc": [
@@ -2109,7 +2130,7 @@
       "chars": 120,
       "ideas": 6,
       "role": "chapter",
-      "order": 99,
+      "order": 100,
       "prev": "learovy_tresky_plesky_cesky_103.html",
       "next": "learovy_tresky_plesky_cesky_105.html",
       "toc": [
@@ -2129,7 +2150,7 @@
       "chars": 115,
       "ideas": 6,
       "role": "chapter",
-      "order": 100,
+      "order": 101,
       "prev": "learovy_tresky_plesky_cesky_104.html",
       "next": "learovy_tresky_plesky_cesky_106.html",
       "toc": [
@@ -2149,7 +2170,7 @@
       "chars": 124,
       "ideas": 6,
       "role": "chapter",
-      "order": 101,
+      "order": 102,
       "prev": "learovy_tresky_plesky_cesky_105.html",
       "next": "learovy_tresky_plesky_cesky_107.html",
       "toc": [
@@ -2169,7 +2190,7 @@
       "chars": 121,
       "ideas": 6,
       "role": "chapter",
-      "order": 102,
+      "order": 103,
       "prev": "learovy_tresky_plesky_cesky_106.html",
       "next": "learovy_tresky_plesky_cesky_108.html",
       "toc": [
@@ -2189,7 +2210,7 @@
       "chars": 127,
       "ideas": 6,
       "role": "chapter",
-      "order": 103,
+      "order": 104,
       "prev": "learovy_tresky_plesky_cesky_107.html",
       "next": "learovy_tresky_plesky_cesky_109.html",
       "toc": [
@@ -2209,7 +2230,7 @@
       "chars": 118,
       "ideas": 6,
       "role": "chapter",
-      "order": 104,
+      "order": 105,
       "prev": "learovy_tresky_plesky_cesky_108.html",
       "next": "learovy_tresky_plesky_cesky_110.html",
       "toc": [
@@ -2229,7 +2250,7 @@
       "chars": 121,
       "ideas": 6,
       "role": "chapter",
-      "order": 105,
+      "order": 106,
       "prev": "learovy_tresky_plesky_cesky_109.html",
       "next": "learovy_tresky_plesky_cesky_111.html",
       "toc": [
@@ -2249,7 +2270,7 @@
       "chars": 108,
       "ideas": 6,
       "role": "chapter",
-      "order": 106,
+      "order": 107,
       "prev": "learovy_tresky_plesky_cesky_110.html",
       "next": "learovy_tresky_plesky_cesky_112.html",
       "toc": [
@@ -2269,7 +2290,7 @@
       "chars": 104,
       "ideas": 6,
       "role": "chapter",
-      "order": 107,
+      "order": 108,
       "prev": "learovy_tresky_plesky_cesky_111.html",
       "next": "learovy_tresky_plesky_cesky_113.html",
       "toc": [
@@ -2289,7 +2310,7 @@
       "chars": 130,
       "ideas": 6,
       "role": "chapter",
-      "order": 108,
+      "order": 109,
       "prev": "learovy_tresky_plesky_cesky_112.html",
       "next": "learovy_tresky_plesky_cesky_114.html",
       "toc": [
@@ -2309,7 +2330,7 @@
       "chars": 121,
       "ideas": 6,
       "role": "chapter",
-      "order": 109,
+      "order": 110,
       "prev": "learovy_tresky_plesky_cesky_113.html",
       "next": "learovy_tresky_plesky_cesky_115.html",
       "toc": [
@@ -2329,7 +2350,7 @@
       "chars": 125,
       "ideas": 6,
       "role": "chapter",
-      "order": 110,
+      "order": 111,
       "prev": "learovy_tresky_plesky_cesky_114.html",
       "next": "learovy_tresky_plesky_cesky_116.html",
       "toc": [
@@ -2349,7 +2370,7 @@
       "chars": 161,
       "ideas": 7,
       "role": "chapter",
-      "order": 111,
+      "order": 112,
       "prev": "learovy_tresky_plesky_cesky_115.html",
       "next": "about.html",
       "toc": [
@@ -2365,9 +2386,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 161,
-      "chars": 1018,
-      "ideas": 21,
+      "words": 141,
+      "chars": 914,
+      "ideas": 16,
       "role": "about",
       "order": null,
       "prev": "learovy_tresky_plesky_cesky_116.html",
@@ -2378,15 +2399,7 @@
           "level": 1,
           "name": "Tiráž",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Learovy třesky plesky česky",
-              "id": "learovy-třesky-plesky-česky",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     }
@@ -2398,9 +2411,9 @@
       "ideas": 693
     },
     "chapters": {
-      "words": 2791,
-      "chars": 13612,
-      "ideas": 668
+      "words": 2811,
+      "chars": 13716,
+      "ideas": 673
     }
   }
 }

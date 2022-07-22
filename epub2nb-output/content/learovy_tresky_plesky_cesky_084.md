@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/085.jpg)
 
-_A jeden chlápek z města Lille,  
+A jeden chlápek z města Lille,  
 ten v životě nic nezkazil;  
          celé dny dřímal blaze  
          bez hnutí na podlaze,  
-přes hlavu pytel v městě Lille._
+přes hlavu pytel v městě Lille.
 
 </section>

@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/067.jpg)
 
-_A jeden chlápek z Lisabonu  
+A jeden chlápek z Lisabonu  
 byl nepřítelem všeho shonu;  
          tak seděl v komoře  
          s nohama nahoře  
-a dřepěl doma v Lisabonu._
+a dřepěl doma v Lisabonu.
 
 </section>

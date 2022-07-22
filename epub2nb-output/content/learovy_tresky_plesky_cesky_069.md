@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/070.jpg)
 
-_A jeden chlápek u Narviku  
+A jeden chlápek u Narviku  
 spad jako dítě do čajníku,  
          a protože moc jed,  
          už nevylezl zpět  
-a je v něm dodnes u Narviku._
+a je v něm dodnes u Narviku.
 
 </section>

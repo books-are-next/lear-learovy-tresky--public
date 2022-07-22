@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/106.jpg)
 
-_A jeden chlápek z Merana,  
+A jeden chlápek z Merana,  
 ten našel pejska bez pána,  
          a tak s tím malým psem  
          běhal jak s keserem  
-v ulicích města Merana._
+v ulicích města Merana.
 
 </section>

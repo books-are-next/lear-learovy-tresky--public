@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/048.jpg)
 
-_A jedna slečna z Montrealu  
+A jedna slečna z Montrealu  
 sklízela v celém světě chválu;  
          na harfu hrála vzorně  
          a přitom neúmorně  
-chytala kapry v Montrealu._
+chytala kapry v Montrealu.
 
 </section>

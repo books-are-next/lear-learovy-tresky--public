@@ -15,6 +15,7 @@ meta:
   edition: poezie
 readingOrder:
   - promo.html
+  - learovy_tresky_plesky_cesky_005.html
   - learovy_tresky_plesky_cesky_006.html
   - learovy_tresky_plesky_cesky_007.html
   - learovy_tresky_plesky_cesky_008.html
@@ -130,6 +131,9 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
+      - link: learovy_tresky_plesky_cesky_005.html
+        title: Learovy třesky plesky česky
+        hiddenTitle: false
       - link: learovy_tresky_plesky_cesky_006.html
         title: Byl jeden chlápek před sto lety ...
         hiddenTitle: true

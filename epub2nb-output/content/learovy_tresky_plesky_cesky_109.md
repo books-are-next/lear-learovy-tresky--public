@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/110.jpg)
 
-_A jeden chlápek v Tobruku  
+A jeden chlápek v Tobruku  
 si koupil velkou paruku;  
          když se dal na pochod,  
          čouhal z ní jen pár bot  
-a špička nosu v Tobruku._
+a špička nosu v Tobruku.
 
 </section>

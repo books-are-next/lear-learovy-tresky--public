@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/077.jpg)
 
-_A jeden chlápek z Protivína  
+A jeden chlápek z Protivína  
 byl opravdu kus podivína;  
          zalézal do komůrky  
          a žvýkal suché kůrky  
-a pavouky, ty z Protivína._
+a pavouky, ty z Protivína.
 
 </section>

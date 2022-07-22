@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/107.jpg)
 
-_Byl jeden chlápek z Kolovrat  
+Byl jeden chlápek z Kolovrat  
 a rychlou jízdu neměl rád;  
          aby si šetřil nervy,  
          jezdil na hřbetě želvy  
-až do Řecka z těch Kolovrat._
+až do Řecka z těch Kolovrat.
 
 </section>
