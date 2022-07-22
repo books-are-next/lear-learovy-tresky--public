@@ -2,20 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Learovy třesky plesky česky
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Edward Lear
   publisher: Městská knihovna v Praze
   modified: '2021-06-03T00:00:00.000Z'
+  contentType: poetry
+  publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
-  - learovy_tresky_plesky_cesky_001.html
-  - learovy_tresky_plesky_cesky_002.html
-  - learovy_tresky_plesky_cesky_003.html
-  - learovy_tresky_plesky_cesky_004.html
-  - learovy_tresky_plesky_cesky_005.html
   - learovy_tresky_plesky_cesky_006.html
   - learovy_tresky_plesky_cesky_007.html
   - learovy_tresky_plesky_cesky_008.html
@@ -127,11 +126,12 @@ readingOrder:
   - learovy_tresky_plesky_cesky_114.html
   - learovy_tresky_plesky_cesky_115.html
   - learovy_tresky_plesky_cesky_116.html
-  - learovy_tresky_plesky_cesky_117.html
+  - about.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
