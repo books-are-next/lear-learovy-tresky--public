@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/074.jpg)
 
-_A jeden chlápek rodem z Cách,  
+A jeden chlápek rodem z Cách,  
 ten zase chodil po patách.  
          Když se ho ptali proč,  
          neřekl ani kvoč  
-a dál si kráčel po patách._
+a dál si kráčel po patách.
 
 </section>

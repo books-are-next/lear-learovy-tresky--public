@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/034.jpg)
 
-_Byl jeden chlápek z Budapešti  
+Byl jeden chlápek z Budapešti  
 a vedl si, jako když třeští,  
          a tak ho maličko  
          bacili paličkou,  
-až přestal třeštit v Budapešti._
+až přestal třeštit v Budapešti.
 
 </section>

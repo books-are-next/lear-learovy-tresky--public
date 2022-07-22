@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/028.jpg)
 
-_A jeden chlápek z Bristolu  
+A jeden chlápek z Bristolu  
 měl hubu jako stodolu;  
          ale když jednou v klusu  
          zhlt naráz celou husu,  
-udusil se v tom Bristolu._
+udusil se v tom Bristolu.
 
 </section>

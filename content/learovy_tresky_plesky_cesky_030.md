@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/031.jpg)
 
-_A jeden chlápek, bytem v Oslu,  
+A jeden chlápek, bytem v Oslu,  
 si jezdil na svém bílém oslu,  
          jen jeho dlouhých uší  
          se pořád děsil v duši,  
-až na ten úděs umřel v Oslu._
+až na ten úděs umřel v Oslu.
 
 </section>

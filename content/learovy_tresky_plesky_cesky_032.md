@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/033.jpg)
 
-_A jeden chlápek rodem z Bragy,  
+A jeden chlápek rodem z Bragy,  
 ten měl rád horké brandy s maggi;  
          srkal je pomaličku  
          po lžičkách při měsíčku  
-když zářil nad střechami Bragy._
+když zářil nad střechami Bragy.
 
 </section>

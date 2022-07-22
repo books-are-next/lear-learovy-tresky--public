@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/071.jpg)
 
-_A jeden chlápek v Africe  
+A jeden chlápek v Africe  
 si z žalu koupil zajíce  
          a jezdil na něm cvalem  
          i s tím svým velkým žalem,  
-až se ho zbavil v Africe._
+až se ho zbavil v Africe.
 
 </section>

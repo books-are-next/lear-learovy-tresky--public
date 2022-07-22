@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/035.jpg)
 
-_A jeden chlápek z Utahu  
+A jeden chlápek z Utahu  
 měl roztodivnou povahu:  
          krmil svých dvacet synů  
          den co den mísou blinů  
-a ničím jiným v Utahu._
+a ničím jiným v Utahu.
 
 </section>

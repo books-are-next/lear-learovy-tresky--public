@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/111.jpg)
 
-_A jedna slečna bytem v Pratu  
+A jedna slečna bytem v Pratu  
 si ušila plášť ze špenátu;  
          jenomže pak se stalo,  
          že ji div nesežralo  
-jakési hloupé tele v Pratu._
+jakési hloupé tele v Pratu.
 
 </section>

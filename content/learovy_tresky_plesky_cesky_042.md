@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/043.jpg)
 
-_A jeden chlápek u Dordrechtu  
+A jeden chlápek u Dordrechtu  
 si čistil pilkou špínu z nehtů,  
          a když si uříz prst,  
          klidně řek: „Mám jich hrst,“  
-a nepřestal s tím u Dordrechtu._
+a nepřestal s tím u Dordrechtu.
 
 </section>

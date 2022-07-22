@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/113.jpg)
 
-_A jedna slečna z Mexika  
+A jedna slečna z Mexika  
 si opatřila ratlíka  
          a krmila ho džemem  
          a klobáskami s křenem,  
-jelikož byla z Mexika._
+jelikož byla z Mexika.
 
 </section>

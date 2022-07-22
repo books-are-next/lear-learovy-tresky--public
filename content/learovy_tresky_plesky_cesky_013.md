@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/014.jpg)
 
-_A jeden chlápek od Brandejsa  
+A jeden chlápek od Brandejsa  
 si pořád zpíval: „Hopsa hejsa,“  
          a na housličky hrál  
          a na všecko se smál  
-od ucha k uchu u Brandejsa._
+od ucha k uchu u Brandejsa.
 
 </section>

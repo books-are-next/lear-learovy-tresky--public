@@ -8,10 +8,10 @@ contentType: poetry
 
 ![](../Images/112.jpg)
 
-_A jeden chlápek z Itálie  
+A jeden chlápek z Itálie  
 měl dceru jménem Vitalie;  
          ta v puntíkatém triku  
          jezdila na čuníku  
-k potěše celé Itálie._
+k potěše celé Itálie.
 
 </section>
