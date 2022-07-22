@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Learovy třesky plesky česky"
+            "title": "",
+            "children": []
           },
           {
             "filename": "learovy_tresky_plesky_cesky_006.md",
@@ -108,8 +108,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek před sto lety ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_007.md",
@@ -120,8 +121,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z města Prahy ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_008.md",
@@ -132,8 +134,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jednou jeden chlápek v Krásném ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_009.md",
@@ -144,8 +147,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Borovnice ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_010.md",
@@ -156,8 +160,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Barceloně ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_011.md",
@@ -168,8 +173,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek, rodák z Lindu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_012.md",
@@ -180,8 +186,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Hamburku ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_013.md",
@@ -192,8 +199,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek od Brandejsa ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_014.md",
@@ -204,8 +212,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna slečna z Jeseníka ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_015.md",
@@ -216,8 +225,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z města Kladska ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_016.md",
@@ -228,8 +238,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z Rejkjaviku ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_017.md",
@@ -240,8 +251,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek u Benátek ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_018.md",
@@ -252,8 +264,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna slečna z Jaroměře ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_019.md",
@@ -264,8 +277,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna slečna z Altamiry ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_020.md",
@@ -276,8 +290,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Malých Sund ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_021.md",
@@ -288,8 +303,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Mariazellu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_022.md",
@@ -300,8 +316,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z Krušných hor ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_023.md",
@@ -312,8 +329,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Horní Seče ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_024.md",
@@ -324,8 +342,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna slečna z Tarnopolu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_025.md",
@@ -336,8 +355,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z Malediv ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_026.md",
@@ -348,8 +368,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek u Milána ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_027.md",
@@ -360,8 +381,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Bristolu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_028.md",
@@ -372,8 +394,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek od Toleda ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_029.md",
@@ -384,8 +407,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna slečna v Omaze ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_030.md",
@@ -396,8 +420,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek, bytem v Oslu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_031.md",
@@ -408,8 +433,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Blackpoolu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_032.md",
@@ -420,8 +446,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek rodem z Bragy ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_033.md",
@@ -432,8 +459,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z Budapešti ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_034.md",
@@ -444,8 +472,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Utahu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_035.md",
@@ -456,8 +485,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek ze Semil ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_036.md",
@@ -468,8 +498,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Charleville ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_037.md",
@@ -480,8 +511,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek ve Vídni ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_038.md",
@@ -492,8 +524,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Aberdeenu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_039.md",
@@ -504,8 +537,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Porubě ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_040.md",
@@ -516,8 +550,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Kytlici ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_041.md",
@@ -528,8 +563,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek, rodák z tropů ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_042.md",
@@ -540,8 +576,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek u Dordrechtu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_043.md",
@@ -552,8 +589,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Bohumína ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_044.md",
@@ -564,8 +602,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z Horní Lhoty ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_045.md",
@@ -576,8 +615,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Kanady ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_046.md",
@@ -588,8 +628,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z města Kremže ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_047.md",
@@ -600,8 +641,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna slečna z Montrealu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_048.md",
@@ -612,8 +654,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Osoppu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_049.md",
@@ -624,8 +667,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z Holovous ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_050.md",
@@ -636,8 +680,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Kosmonos ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_051.md",
@@ -648,8 +693,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek, rodák z Chile ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_052.md",
@@ -660,8 +706,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Kostariky ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_053.md",
@@ -672,8 +719,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z města Vitry ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_054.md",
@@ -684,8 +732,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Palmýry ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_055.md",
@@ -696,8 +745,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek poblíž Plzně ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_056.md",
@@ -708,8 +758,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek v Bojničkách ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_057.md",
@@ -720,8 +771,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A byla jedna slečna z Halle ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_058.md",
@@ -732,8 +784,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Cařihradu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_059.md",
@@ -744,8 +797,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Burgosu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_060.md",
@@ -756,8 +810,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek v Skalici ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_061.md",
@@ -768,8 +823,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Boleslavi ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_062.md",
@@ -780,8 +836,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Teheránu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_063.md",
@@ -792,8 +849,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Novém Městě ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_064.md",
@@ -804,8 +862,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z Žernosek ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_065.md",
@@ -816,8 +875,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Polesí ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_066.md",
@@ -828,8 +888,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Lisabonu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_067.md",
@@ -840,8 +901,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek v Mikuláši ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_068.md",
@@ -852,8 +914,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna slečna v Paříži ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_069.md",
@@ -864,8 +927,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek u Narviku ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_070.md",
@@ -876,8 +940,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Africe ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_071.md",
@@ -888,8 +953,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z Poděbrad ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_072.md",
@@ -900,8 +966,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Thermopyl ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_073.md",
@@ -912,8 +979,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek rodem z Cách ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_074.md",
@@ -924,8 +992,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Coloradu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_075.md",
@@ -936,8 +1005,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z Los Alamos ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_076.md",
@@ -948,8 +1018,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Protivína ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_077.md",
@@ -960,8 +1031,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Raguse ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_078.md",
@@ -972,8 +1044,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek v Slatinách ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_079.md",
@@ -984,8 +1057,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z města Prahy ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_080.md",
@@ -996,8 +1070,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna slečna v Černé Hoře ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_081.md",
@@ -1008,8 +1083,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek na Hvaru ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_082.md",
@@ -1020,8 +1096,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z Astonville ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_083.md",
@@ -1032,8 +1109,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek, rodák z Detvy ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_084.md",
@@ -1044,8 +1122,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z města Lille ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_085.md",
@@ -1056,8 +1135,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek, rodák z Rábu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_086.md",
@@ -1068,8 +1148,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Borové ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_087.md",
@@ -1080,8 +1161,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Domažlic ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_088.md",
@@ -1092,8 +1174,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek, rodák z Bledu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_089.md",
@@ -1104,8 +1187,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek ve Villachu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_090.md",
@@ -1116,8 +1200,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Ávile ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_091.md",
@@ -1128,8 +1213,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Esterhazy ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_092.md",
@@ -1140,8 +1226,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z Anacapri ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_093.md",
@@ -1152,8 +1239,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek ze Šanghaje ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_094.md",
@@ -1164,8 +1252,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Maroku ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_095.md",
@@ -1176,8 +1265,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Radomi ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_096.md",
@@ -1188,8 +1278,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Osnabrücku ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_097.md",
@@ -1200,8 +1291,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna paní v Turkestánu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_098.md",
@@ -1212,8 +1304,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek v Spoletu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_099.md",
@@ -1224,8 +1317,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Komárna ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_100.md",
@@ -1236,8 +1330,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek od Mylhúz ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_101.md",
@@ -1248,8 +1343,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna slečna z Mezimostí ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_102.md",
@@ -1260,8 +1356,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek v Kratochvíli ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_103.md",
@@ -1272,8 +1369,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek ze Sobotky ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_104.md",
@@ -1284,8 +1382,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek ze Zábřehu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_105.md",
@@ -1296,8 +1395,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Merana ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_106.md",
@@ -1308,8 +1408,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Byl jeden chlápek z Kolovrat ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_107.md",
@@ -1320,8 +1421,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Bochumu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_108.md",
@@ -1332,8 +1434,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Prostějově ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_109.md",
@@ -1344,8 +1447,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek v Tobruku ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_110.md",
@@ -1356,8 +1460,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna slečna bytem v Pratu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_111.md",
@@ -1368,8 +1473,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Itálie ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_112.md",
@@ -1380,8 +1486,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna slečna z Mexika ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_113.md",
@@ -1392,8 +1499,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z delty Nilu ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_114.md",
@@ -1404,8 +1512,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek z Rumburku ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_115.md",
@@ -1416,8 +1525,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jedna slečna v Praze Michli ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_116.md",
@@ -1428,8 +1538,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "A jeden chlápek, zase v Praze ..."
           },
           {
             "filename": "learovy_tresky_plesky_cesky_117.md",
@@ -2774,6 +2885,6 @@
       "user": "books-are-next",
       "repo": "lear-learovy-tresky-plesky-cesky"
     },
-    "generatedAt": 1658413428377
+    "generatedAt": 1658475338515
   }
 }
