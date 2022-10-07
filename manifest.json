@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "lear-learovy-tresky-plesky-cesky-ae9e4c0",
-  "revision": "ae9e4c0",
+  "identifier": "lear-learovy-tresky-plesky-cesky-cf39265",
+  "revision": "cf39265",
   "readingOrder": [
     "promo.html",
     "learovy_tresky_plesky_cesky_005.html",
@@ -127,8 +127,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:57:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924277392
+    "date": "Fri Oct 07 2022 13:56:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150992415
   },
   "documents": [
     {
