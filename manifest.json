@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "lear-learovy-tresky-plesky-cesky-cf39265",
-  "revision": "cf39265",
+  "identifier": "lear-learovy-tresky-plesky-cesky-498be65",
+  "revision": "498be65",
   "readingOrder": [
     "promo.html",
     "learovy_tresky_plesky_cesky_005.html",
@@ -127,8 +127,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:56:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150992415
+    "date": "Mon Oct 10 2022 15:48:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416907201
   },
   "documents": [
     {
@@ -2387,7 +2387,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 139,
-      "chars": 914,
+      "chars": 915,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -2407,7 +2407,7 @@
   "totals": {
     "all": {
       "words": 2958,
-      "chars": 14677,
+      "chars": 14678,
       "ideas": 691
     },
     "chapters": {
